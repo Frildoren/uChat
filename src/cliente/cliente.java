@@ -78,6 +78,7 @@ class chat extends ventPrincipal implements Runnable{
 	}
 }
 
+
 //GUI
 //Ventana principal.
 class ventPrincipal extends JFrame implements ActionListener, KeyListener{
